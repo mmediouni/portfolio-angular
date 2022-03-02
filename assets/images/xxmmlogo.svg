@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145px" height="60px">
+  <text x="0"  y="25"
+        style="font-family: Monaco;
+               letter-spacing: 0.1em;
+               font-size  : 30;
+               stroke     : #f0f0f0;
+               fill       :#f0f0f0;">
+    Mediouni
+  </text>
+  <text x="0"  y="50"
+        style="font-family: Monaco;
+               letter-spacing: 0.1em;
+               font-size  : 30;
+               stroke     : #f0f0f0;
+               fill       : #f0f0f0;">
+    Mohamed
+  </text>
+</svg>

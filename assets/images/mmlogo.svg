@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180px" height="60px">
+  <text x="0" y="25" style="font-family:Monaco;letter-spacing:0.1em;font-size:30;stroke:#f0f0f0;fill:#f0f0f0">
+    Mediouni
+  </text>
+  <text x="0" y="50" style="font-family:Monaco;letter-spacing:0.1em;font-size:30;stroke:#f0f0f0;fill:#f0f0f0">
+    Mohamed
+  </text>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="header" transform="translate(-42.000000, -61.000000)" fill-rule="nonzero">
+      <g id="Bolby.">
+        <g transform="translate(89.448000, 87)">
+          <path d="M105.048,25.56 C105.312,25.56 105.528,25.47 105.696,25.29 C105.864,25.11 105.948,24.9 105.948,24.66 L105.948,24.66 L105.948,19.908 C105.948,19.644 105.864,19.422 105.696,19.242 C105.528,19.062 105.312,18.972 105.048,18.972 L105.048,18.972 L100.296,18.972 C100.032,18.972 99.81,19.062 99.63,19.242 C99.45,19.422 99.36,19.644 99.36,19.908 L99.36,19.908 L99.36,24.66 C99.36,24.924 99.45,25.14 99.63,25.308 C99.81,25.476 100.032,25.56 100.296,25.56 L100.296,25.56 L105.048,25.56 Z" id="." fill="#FF4C60"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
